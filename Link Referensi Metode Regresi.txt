@@ -1,0 +1,10 @@
+Link Referensi Metode Regresi
+
+Generalized Linear Model
+https://rpubs.com/rana2hin/glm_assignment
+
+Spline Regression
+https://medium.com/analytics-vidhya/spline-regression-in-r-960ca82aa62c
+
+Non Parametrik (Nadaraya-Watson, Spline dan Local Polynomial)
+https://rpubs.com/rgtpprmt/Kernel-Regresi-Nonparametrik-Nadaraya-Watson
